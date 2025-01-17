@@ -1,0 +1,87 @@
+2025-01-08 17:33:34,660 - INFO - Cleared log file: zendesk_weekend_check.log.
+2025-01-08 17:33:34,661 - INFO - Log rotation completed.
+2025-01-08 17:55:07,907 - INFO - Performing action: set_true
+2025-01-08 17:55:08,978 - INFO - Zendesk API request to /views/40051527319577/tickets.json succeeded.
+2025-01-08 17:55:08,989 - INFO - Retrieved 18 tickets from current page.
+2025-01-08 17:55:08,989 - INFO - Total tickets retrieved: 18
+2025-01-08 17:55:10,159 - INFO - Zendesk API request to /tickets/371273.json succeeded.
+2025-01-08 17:55:10,163 - INFO - Successfully updated Ticket ID: 371273 to True
+2025-01-08 17:55:11,249 - INFO - Zendesk API request to /tickets/371256.json succeeded.
+2025-01-08 17:55:11,253 - INFO - Successfully updated Ticket ID: 371256 to True
+2025-01-08 17:55:12,425 - INFO - Zendesk API request to /tickets/370685.json succeeded.
+2025-01-08 17:55:12,429 - INFO - Successfully updated Ticket ID: 370685 to True
+2025-01-08 17:55:13,556 - INFO - Zendesk API request to /tickets/370267.json succeeded.
+2025-01-08 17:55:13,560 - INFO - Successfully updated Ticket ID: 370267 to True
+2025-01-08 17:55:14,711 - INFO - Zendesk API request to /tickets/370216.json succeeded.
+2025-01-08 17:55:14,718 - INFO - Successfully updated Ticket ID: 370216 to True
+2025-01-08 17:55:16,037 - INFO - Zendesk API request to /tickets/369843.json succeeded.
+2025-01-08 17:55:16,053 - INFO - Successfully updated Ticket ID: 369843 to True
+2025-01-08 17:55:16,703 - INFO - Zendesk API request to /tickets/369605.json succeeded.
+2025-01-08 17:55:16,707 - INFO - Successfully updated Ticket ID: 369605 to True
+2025-01-08 17:55:17,383 - INFO - Zendesk API request to /tickets/369601.json succeeded.
+2025-01-08 17:55:17,388 - INFO - Successfully updated Ticket ID: 369601 to True
+2025-01-08 17:55:18,440 - INFO - Zendesk API request to /tickets/369021.json succeeded.
+2025-01-08 17:55:18,444 - INFO - Successfully updated Ticket ID: 369021 to True
+2025-01-08 17:55:19,433 - INFO - Zendesk API request to /tickets/368795.json succeeded.
+2025-01-08 17:55:19,439 - INFO - Successfully updated Ticket ID: 368795 to True
+2025-01-08 17:55:20,059 - INFO - Zendesk API request to /tickets/368790.json succeeded.
+2025-01-08 17:55:20,064 - INFO - Successfully updated Ticket ID: 368790 to True
+2025-01-08 17:55:21,176 - INFO - Zendesk API request to /tickets/368785.json succeeded.
+2025-01-08 17:55:21,181 - INFO - Successfully updated Ticket ID: 368785 to True
+2025-01-08 17:55:21,952 - INFO - Zendesk API request to /tickets/368751.json succeeded.
+2025-01-08 17:55:21,957 - INFO - Successfully updated Ticket ID: 368751 to True
+2025-01-08 17:55:22,945 - INFO - Zendesk API request to /tickets/368556.json succeeded.
+2025-01-08 17:55:22,949 - INFO - Successfully updated Ticket ID: 368556 to True
+2025-01-08 17:55:23,747 - INFO - Zendesk API request to /tickets/368505.json succeeded.
+2025-01-08 17:55:23,751 - INFO - Successfully updated Ticket ID: 368505 to True
+2025-01-08 17:55:24,642 - INFO - Zendesk API request to /tickets/366304.json succeeded.
+2025-01-08 17:55:24,646 - INFO - Successfully updated Ticket ID: 366304 to True
+2025-01-08 17:55:25,505 - INFO - Zendesk API request to /tickets/366301.json succeeded.
+2025-01-08 17:55:25,508 - INFO - Successfully updated Ticket ID: 366301 to True
+2025-01-08 17:55:26,368 - INFO - Zendesk API request to /tickets/362687.json succeeded.
+2025-01-08 17:55:26,374 - INFO - Successfully updated Ticket ID: 362687 to True
+2025-01-08 17:55:26,379 - INFO - Ticket Ids saved to Database successfully.
+2025-01-08 17:55:26,379 - INFO - Processed and stored 18 tickets.
+2025-01-08 17:58:26,382 - INFO - Performing action: set_false
+2025-01-08 17:58:26,384 - INFO - Ticket Ids retrieved from database successfully.
+2025-01-08 17:58:27,396 - INFO - Zendesk API request to /tickets/362687.json succeeded.
+2025-01-08 17:58:27,400 - INFO - Successfully updated Ticket ID: 362687 to False
+2025-01-08 17:58:28,284 - INFO - Zendesk API request to /tickets/366301.json succeeded.
+2025-01-08 17:58:28,289 - INFO - Successfully updated Ticket ID: 366301 to False
+2025-01-08 17:58:29,197 - INFO - Zendesk API request to /tickets/366304.json succeeded.
+2025-01-08 17:58:29,202 - INFO - Successfully updated Ticket ID: 366304 to False
+2025-01-08 17:58:29,897 - INFO - Zendesk API request to /tickets/368505.json succeeded.
+2025-01-08 17:58:29,901 - INFO - Successfully updated Ticket ID: 368505 to False
+2025-01-08 17:58:30,917 - INFO - Zendesk API request to /tickets/368556.json succeeded.
+2025-01-08 17:58:30,920 - INFO - Successfully updated Ticket ID: 368556 to False
+2025-01-08 17:58:31,607 - INFO - Zendesk API request to /tickets/368751.json succeeded.
+2025-01-08 17:58:31,612 - INFO - Successfully updated Ticket ID: 368751 to False
+2025-01-08 17:58:32,469 - INFO - Zendesk API request to /tickets/368785.json succeeded.
+2025-01-08 17:58:32,471 - INFO - Successfully updated Ticket ID: 368785 to False
+2025-01-08 17:58:33,172 - INFO - Zendesk API request to /tickets/368790.json succeeded.
+2025-01-08 17:58:33,176 - INFO - Successfully updated Ticket ID: 368790 to False
+2025-01-08 17:58:34,297 - INFO - Zendesk API request to /tickets/368795.json succeeded.
+2025-01-08 17:58:34,302 - INFO - Successfully updated Ticket ID: 368795 to False
+2025-01-08 17:58:35,444 - INFO - Zendesk API request to /tickets/369021.json succeeded.
+2025-01-08 17:58:35,448 - INFO - Successfully updated Ticket ID: 369021 to False
+2025-01-08 17:58:36,102 - INFO - Zendesk API request to /tickets/369601.json succeeded.
+2025-01-08 17:58:36,107 - INFO - Successfully updated Ticket ID: 369601 to False
+2025-01-08 17:58:36,884 - INFO - Zendesk API request to /tickets/369605.json succeeded.
+2025-01-08 17:58:36,888 - INFO - Successfully updated Ticket ID: 369605 to False
+2025-01-08 17:58:37,721 - INFO - Zendesk API request to /tickets/369843.json succeeded.
+2025-01-08 17:58:37,726 - INFO - Successfully updated Ticket ID: 369843 to False
+2025-01-08 17:58:38,805 - INFO - Zendesk API request to /tickets/370216.json succeeded.
+2025-01-08 17:58:38,810 - INFO - Successfully updated Ticket ID: 370216 to False
+2025-01-08 17:58:39,601 - INFO - Zendesk API request to /tickets/370267.json succeeded.
+2025-01-08 17:58:39,606 - INFO - Successfully updated Ticket ID: 370267 to False
+2025-01-08 17:58:40,447 - INFO - Zendesk API request to /tickets/370685.json succeeded.
+2025-01-08 17:58:40,451 - INFO - Successfully updated Ticket ID: 370685 to False
+2025-01-08 17:58:41,587 - INFO - Zendesk API request to /tickets/371256.json succeeded.
+2025-01-08 17:58:41,592 - INFO - Successfully updated Ticket ID: 371256 to False
+2025-01-08 17:58:42,286 - INFO - Zendesk API request to /tickets/371273.json succeeded.
+2025-01-08 17:58:42,291 - INFO - Successfully updated Ticket ID: 371273 to False
+2025-01-08 17:58:42,296 - INFO - Database cleared.
+2025-01-08 17:58:42,296 - INFO - Processed and cleared 18 tickets.
+2025-01-08 18:00:42,304 - INFO - Starting log rotation...
+2025-01-08 18:00:42,313 - INFO - No tickets to archive.
+2025-01-08 18:00:42,317 - INFO - Cleared processed_tickets table.
